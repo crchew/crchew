@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<p>I am an aspiring web developer. Used to work in digital marketing and media monitoring but discovered my interest in coding later.</p>
+<p>I am a career changer pivoting into the tech industry. Previously, I worked in digital marketing and media monitoring.
 
-<p>I'm currently enrolled in the Sigma School Complete Software Development Programme, where we learn four modules: Coding Fundamentals, Front End, Back End, and Full Stack.</p>
+<p>Currently wrapping up the Sigma School Complete Software Development Programme, where we go through four modules: Coding Fundamentals, Front End, Back End, and Full Stack (Data Structures and Algorithms).</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
